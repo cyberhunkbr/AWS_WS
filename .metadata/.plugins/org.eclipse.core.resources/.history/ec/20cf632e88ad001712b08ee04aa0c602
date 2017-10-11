@@ -1,0 +1,10 @@
+package com.amazonaws.helloec2;
+
+public class Hello_EC2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

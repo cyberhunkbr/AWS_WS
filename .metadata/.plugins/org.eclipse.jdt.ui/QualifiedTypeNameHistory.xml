@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.jersey.api.client.config.ClientConfig"/>
+<fullyQualifiedTypeName name="com.sun.jersey.api.client.Client"/>
+<fullyQualifiedTypeName name="com.sun.jersey.api.client.WebResource"/>
+<fullyQualifiedTypeName name="com.sun.jersey.api.client.ClientResponse"/>
+<fullyQualifiedTypeName name="org.apache.commons.httpclient.protocol.Protocol"/>
+</qualifiedTypeNameHistroy>
